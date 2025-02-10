@@ -8,7 +8,7 @@ import random
 import string
 import base64
 
-BOT_TOKEN = "7944014995:AAEyxp_dJ-Dmn8CmEdjIX0uFaWvXSphvp5M"
+BOT_TOKEN = "Bot Token"
 BOT_ID = "nestedkhat_bot"
 ALLOWED = "ALL"
 
